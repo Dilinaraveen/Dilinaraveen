@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilina Raveen</h1>
-<h3 align="center">Passionate software engineer from Sri Lanka 🇱🇰, focused on full-stack development and machine learning.</h3>
+<p align="center">Passionate software engineer from Sri Lanka 🇱🇰, focused on full-stack development and machine learning.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dilinaraveen&label=Profile%20views&color=0e75b6&style=flat" alt="dilinaraveen" /> </p>
 
@@ -11,15 +11,15 @@
 
 ---
 # 📊 GitHub Stats:
-<div style="display: flex; flex-wrap: wrap; gap: 40px;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <!-- GitHub Stats Image -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dilinaraveen&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="flex: 1 1 300px; max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=dilinaraveen&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="flex: 1 1 300px; max-width: 100%;">
 
   <!-- GitHub Streak Stats Image -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilinaraveen&theme=dark&hide_border=false" alt="GitHub Streak Stats" style="flex: 1 1 300px; max-width: 100%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilinaraveen&theme=transparent&hide_border=false" alt="GitHub Streak Stats" style="flex: 1 1 300px; max-width: 100%;">
 
   <!-- Top Languages Image -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilinaraveen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="flex: 1 1 300px; max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilinaraveen&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="flex: 1 1 300px; max-width: 100%;">
 </div>
 
 ---
